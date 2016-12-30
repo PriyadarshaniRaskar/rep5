@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Dec 29 15:01:34 PST 2016
+org.eclipse.jst.j2ee.server\:BackEnd=WEB-INF/lib/BackEnd-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Mahesh\\.m2\\repository\\org\\springframework\\spring-web\\4.3.3.RELEASE\\spring-web-4.3.3.RELEASE.jar=WEB-INF/lib/spring-web-4.3.3.RELEASE.jar
